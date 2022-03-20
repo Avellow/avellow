@@ -13,8 +13,6 @@
 
 [![website](./icons/telegram.svg)](https://t.me/zellek)
 
-&nbsp;
-
 ### Мой стек:
 
 <img alt="WebStorm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" style="padding-right:10px;" /><img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -27,10 +25,9 @@
 <img alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<br />
-<br />
 
-⚡GitHub Stats
 
-[<img alt="Avellow&amp;amp;#39;s GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=avellow&theme=dracula&show_icons=true&border_radius=0"/>](https://github.com/anuraghazra/github-readme-stats) [<img alt="Top Langs" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avellow&amp;layout=compact&amp;theme=dracula&border_radius=0"/>](https://github.com/anuraghazra/github-readme-stats)
+###⚡GitHub Stats
+
+[<img alt="Avellow&amp;amp;#39;s GitHub stats" width="400" src="https://github-readme-stats.vercel.app/api?username=avellow&theme=dracula&show_icons=true&border_radius=0"/>](https://github.com/anuraghazra/github-readme-stats) [<img alt="Top Langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avellow&amp;layout=compact&amp;theme=dracula&border_radius=0"/>](https://github.com/anuraghazra/github-readme-stats)
 
