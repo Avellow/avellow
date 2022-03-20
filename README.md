@@ -29,5 +29,5 @@
 
 ### ⚡GitHub Stats
 
-[<img alt="Avellow&amp;amp;#39;s GitHub stats" width="400" src="https://github-readme-stats.vercel.app/api?username=avellow&theme=dracula&show_icons=true&border_radius=0"/>](https://github.com/anuraghazra/github-readme-stats) [<img alt="Top Langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avellow&amp;layout=compact&amp;theme=dracula&border_radius=0"/>](https://github.com/anuraghazra/github-readme-stats)
+[<img alt="Avellow&amp;amp;#39;s GitHub stats" width="400" src="https://github-readme-stats.vercel.app/api?username=avellow&theme=dracula&show_icons=true&border_radius=0"/>](https://github.com/anuraghazra/github-readme-stats) [<img alt="Top Langs" width="395.7" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avellow&amp;layout=compact&amp;theme=dracula&border_radius=0"/>](https://github.com/anuraghazra/github-readme-stats)
 
