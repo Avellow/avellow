@@ -1,10 +1,5 @@
 ## Hi there 👋
-I'm a React Developer, recently completed Alfa Campus workshop by Alfa-Bank
-
-Сurrently focused on:
- - learning algorithms and data structures (via youtube channel codevolution)
- - fast and high-quality development using react ui libraries (e.g. ant-design)
- - fundamentals via A.V. Stolyarov: Programming: an introduction to the profession
+I'm a React Developer
  
 
 ## My tech stack
